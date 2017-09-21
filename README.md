@@ -10,11 +10,14 @@ These were our results:
 Model            | Training ROC-AUC | Validation ROC-AUC | Kaggle Score (Private Leaderboard)
 
 1)KNN	           | 0.867312308946   |	0.706247494793	   | 0.70773
+
 2)Random Forests | 0.968757280831	  | 0.719818134936	   | 0.72541
+
 3)Adaboost	     | 0.724944697866	  | 0.699405989396	   | 0.65361
+
 4)Ensemble       | 0.959052296333	  | 0.741687620014	   | 0.74339
 
 
 More details can be found in the report (KaggleReport.docx).
 
-Partner's github link: https://github.com/jasian
+Partner: https://github.com/jasian
