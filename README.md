@@ -21,3 +21,5 @@ Model            | Training ROC-AUC | Validation ROC-AUC | Kaggle Score (Private
 More details can be found in the report (KaggleReport.docx).
 
 Partner: https://github.com/jasian
+
+Kaggle Competition: https://www.kaggle.com/c/uc-irvine-2017w-cs178
